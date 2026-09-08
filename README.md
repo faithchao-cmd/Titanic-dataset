@@ -1,4 +1,4 @@
-# Titanic Dataset — Data Cleaning and Preprocessing
+# Titanic Dataset — Data Cleaning and Processing
 
 ## Description
 This project cleans and prepares a raw Titanic-style passenger dataset containing
