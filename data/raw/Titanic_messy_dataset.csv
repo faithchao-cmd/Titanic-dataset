@@ -1,0 +1,321 @@
+PassengerId,Name,Sex,Age,Pclass,Parch,Ticket,Fare,Cabin,Embarked,Survived,BookingDate
+112,"  Williams, Miss. Elizabeth  ",female,16.5,2,0,111197,29.35,,S,Y,04/03/1912
+81,"Baker, Mrs. Helen",female,,1,0,331855,$126.75,D67,Southampton,0,28/04/1912
+128,"WRIGHT, MR. ANDREW",M,,1,0,213020,66.47,D35,,0,04-18-1912
+99,"Wright, Master. Arthur",M,49.5,3,0,256842,10.04,,,0,10/04/1912
+53,"Wilson, Master. Robert",male,14.6,2,0,172547,36.76,,s,Yes,10/03/1912
+2,"Walker, Mr. Albert",male,27.3,1,0,245852,49.12,,s,1,04-21-1912
+171,"HARRIS, MRS. ALICE",Female,47,1,0,282150,"63,21",G41,Q,1,15/04/1912
+35,"PHILLIPS, MRS. ELIZABETH",female,15.6,3,0,293575,8.18 USD,,Southampton,0,"April 07, 1912"
+283,"King, Mrs. Sarah",female,29.2,1,0,260174,49.91,A51,s,1,16/04/1912
+106,"  Turner, Master. Joseph  ",male,,3,0,107297,13.49 USD,,c,0,03-17-1912
+107,"Mitchell, Master. Thomas",M,,3,0,347189,6.67,,S,0,02/03/1912
+203,"  Walker, Mr. Robert  ",male,27.2,3,1,191784,7.27 USD,,Southampton,0,27/03/1912
+140,"  Johnson, Mr. Fred  ",male,,2,1,144212,43.82,,C,0,02/04/1912
+109,"clark, master. john",male,48,1,0,383216,67.74,C86,s,No,03-27-1912
+254,"Moore, Master. Thomas",male,23.3,2nd,0,386066,$19.16,,Southampton,1,12/03/1912
+115,"Smith, Mr. James",male,38.8,1st,1,239129,55.92,,Southampton,Y,04/03/1912
+155,"Smith, Mrs. Mary",FEMALE,38.2,2,1,376704,54.98,,Southampton,1,03-28-1912
+48,"Wilson, Miss. Helen",female,55.3,1,0,138182,58.25 USD,E99,S,1,30/03/1912
+190,"CARTER, MASTER. WILLIAM",male,,1,0,267001,46.76,C79,s,1,11/03/1912
+94,"Young, Master. Thomas",MALE,31.2,1,0,299234,66.28,G69,Cherbourg,1,21/03/1912
+89,"Turner, Mr. Albert",M,,3,1,278192,16.05,,C,N,29/04/1912
+192,"Hall, Master. Michael",male,,2,1,113970,$10.46,,Cherbourg,0,04/08/1912
+261,"Mitchell, Mr. Robert",male,0.5,2,0,338725,15.5,,s,0,20/04/1912
+25,"Jones, Miss. Agnes",female,33.8,2,0,384266,32.62,,Southampton,1,04/03/1912
+294,"Anderson, Mrs. Agnes",female,,1,0,271311,87.77,,q,0,26/03/1912
+185,"clark, master. albert",male,,3,0,306172,7.83,,,0,02/04/1912
+27,"Brown, Master. Joseph",male,28.3 yrs,3,0,120836,16.08,,s,0,04/09/1912
+44,"Wright, Miss. Rose",f,32.6,1,0,310973,$220.25,,s,1,04-14-1912
+243,"LEWIS, MRS. ALICE",female,,3,0,221710,14.48,,S,N,04-23-1912
+216,"Moore, Master. John",MALE,14.4 yrs,3,0,136185,$18.04,,S,1,29/04/1912
+93,"Turner, Master. Harry",male,4.7,1,1,175578,108.6,A93,s,1,27/03/1912
+28,"campbell, master. harry",male,,2,0,239258,17.83,,Southampton,No,26/03/1912
+206,"Miller, Miss. Elizabeth",female,38.1 yrs,1,0,276743,153.32,,C,Y,20/04/1912
+32,"Hall, Mr. Walter",male,32.5,3rd,0,190824,18.03,,Southampton,0,05/04/1912
+270,"Taylor, Mr. William",male,29.3 yrs,3rd,0,105024,13.67,,c,No,01/04/1912
+174,"Young, Mrs. Agnes",female,23.3 yrs,3,0,350958,10.91,,s,N,04/03/1912
+165,"walker, mrs. clara",female,,1,0,333788,75.72,,s,1,08/04/1912
+267,"HALL, MISS. CLARA",Female,,3rd,0,190454,"13,38",,S,0,22/04/1912
+103,"carter, master. john",M,21.0 yrs,3rd,0,147255,9.8,,C,0,04-28-1912
+228,"CLARK, MR. HARRY",male,38.3,1st,2,161507,83.50 USD,B25,S,1,04-17-1912
+60,"Young, Mr. Charles",male,,3rd,0,395682,"7,65",,S,1,30/04/1912
+66,"Baker, Mr. Arthur",male,29.0 yrs,2nd,0,115047,$11.26,,s,0,"April 01, 1912"
+176,"Baker, Mr. Samuel",male,,3,0,129052,7.39 USD,,Q,N,04-23-1912
+148,"Harris, Mrs. Edith",female,,1,0,225393,68.17,,c,1,20/03/1912
+231,"Hall, Mr. Walter",male,18.5,2,0,390094,13.18,,,1,29/04/1912
+207,"Young, Mrs. Emily",female,4,3,1,370155,16.04,,C,0,21/03/1912
+26,"Lewis, Miss. Bertha",female,45.3 yrs,1,0,135924,,G24,S,1,08/04/1912
+268,"Wright, Mrs. Bertha",FEMALE,29.9 yrs,3,0,195968,7.18,,S,0,24/03/1912
+248,"WALKER, MISS. MARGARET",female,42.1 yrs,1,0,303318,44.37,,S,1,04-19-1912
+139,"Harris, Miss. Margaret",female,32.9 yrs,1,2,399712,99.57,,C,Yes,11/04/1912
+282,"brown, mr. arthur",m,8.5,1,0,169160,"48,3",D26,Southampton,No,"April 26, 1912"
+38,"  Green, Mr. James  ",Male,21.2,3,1,230111,7.33,,Southampton,0,18/03/1912
+158,"wright, mrs. ada",female,38.9,2,0,375806,$10.84,,s,0,04/04/1912
+57,"Young, Mrs. Nora",f,27.1 yrs,3,2,114209,9.19 USD,,Southampton,0,06/03/1912
+65,"Harris, Master. Thomas",male,35.6 yrs,3,0,228710,13.47,,Southampton,N,23/04/1912
+298,"Turner, Miss. Anna",female,,3,0,153951,7.23,,S,0,27/04/1912
+181,"Harris, Miss. Ellen",female,22.7,3,0,353887,$8.00,,s,0,30/03/1912
+190,"  Carter, Master. William  ",male,,1,0,267001,46.76,C79,s,1,11/03/1912
+208,"jones, mr. michael",male,30.5 yrs,2,2,301103,14.26,,Southampton,0,16/03/1912
+168,"Jackson, Master. Edward",male,,3,0,335889,7.45,,Southampton,0,04-30-1912
+114,"Anderson, Mr. Andrew",male,34.2 yrs,3rd,0,231414,$12.94,,,1,21/04/1912
+104,"Davis, Mrs. Ada",female,9,2nd,0,378319,20.58,,Q,1,02/04/1912
+163,"Anderson, Miss. Anna",female,5.6,3,0,330548,7.28 USD,,C,1,27/04/1912
+259,"  Smith, Mrs. Ada  ",female,23.6,3,0,392549,11.91,,C,0,07/04/1912
+200,"Mitchell, Mrs. Emily",female,30.8,3,2,171970,8.33 USD,,S,0,07/03/1912
+213,"Williams, Master. Albert",male,36.1,3rd,0,365020,8.41,,C,N,13/03/1912
+131,"MILLER, MISS. KATE",female,31.9,1,0,137788,$45.17,F46,Southampton,0,26/03/1912
+37,"Young, Master. Edward",male,24.1,3rd,2,185197,10.01 USD,,Southampton,0,04-21-1912
+11,"Carter, Mr. William",male,16.8,3,0,345392,$13.99,,Southampton,0,"April 03, 1912"
+182,"Turner, Master. William",male,11.6,2,0,309042,17.43,,Cherbourg,1,09/03/1912
+199,"JOHNSON, MISS. ALICE",female,7.2,3rd,0,331932,7.2,,Southampton,0,11/04/1912
+277,"  Anderson, Mr. Walter  ",male,4,1,0,268871,56.65,,Cherbourg,0,23/04/1912
+28,"campbell, master. harry",male,,2nd,0,239258,17.83,,Southampton,0,26/03/1912
+223,"Thomas, Mrs. Rose",female,,3,3,316824,10.26,,S,0,03-20-1912
+105,"Carter, Miss. Sarah",female,41.3 yrs,3,1,345540,11.05,,C,1,05/03/1912
+289,"  Walker, Mr. Robert  ",male,,2,0,114063,$17.75,,S,No,24/04/1912
+36,"  Moore, Master. John  ",male,20.1,2nd,1,287595,27.71 USD,,C,1,14/03/1912
+122,"walker, mr. edward",male,24.3,3,2,164084,"9,7",,s,0,27/03/1912
+20,"Walker, Mr. Fred",male,19.4,2nd,2,347815,25.41,,Southampton,0,16/03/1912
+224,"King, Mrs. Bertha",female,24.1,1,0,299834,"68,09",F86,s,1,"April 20, 1912"
+211,"young, master. henry",male,23.2,3,2,338539,$11.44,,S,0,17/04/1912
+137,"Turner, Miss. Bertha",female,23.8,3,0,345849,6.57,,S,0,29/03/1912
+120,"Taylor, Master. Joseph",Male,,2,0,263865,11.37,,C,Yes,28/03/1912
+62,"Jackson, Master. Henry",M,15.4,3,0,227323,11.67,,s,0,07/03/1912
+71,"Green, Master. Fred",male,,1,1,255318,"160,49",,Southampton,0,15/03/1912
+6,"Miller, Master. Arthur",male,18.4,2,0,137435,16.05,,S,0,08/04/1912
+153,"Wilson, Master. Frank",male,8.2,2,0,267082,37.91,,s,1,04-29-1912
+265,"Smith, Master. Walter",male,35.2,2,0,132801,10.53,,C,0,06/04/1912
+132,"Turner, Mr. Arthur",male,17.9,2,0,318991,$22.81,,Southampton,0,03-19-1912
+110,"Carter, Mrs. Edith",female,37.2,3rd,0,211071,10.1,,S,0,01/04/1912
+241,"MILLER, MR. THOMAS",male,53.3,3,0,175597,$6.62,,Q,1,18/04/1912
+227,"Walker, Mr. Edward",male,26.8,3rd,0,120734,7.31,,S,1,04-25-1912
+88,"Mitchell, Miss. Sarah",female,4.6 yrs,3,0,175834,17.74,,S,0,"March 25, 1912"
+77,"Scott, Master. Walter",male,18.4,1,0,137318,$82.09,F59,s,0,"April 13, 1912"
+292,"  Moore, Miss. Bertha  ",female,14.9,3,0,138268,$8.71,,s,No,"March 02, 1912"
+173,"Carter, Mrs. Elizabeth",female,3.6 yrs,3,1,390466,$10.49,,s,1,06/04/1912
+175,"JONES, MRS. BERTHA",female,8.3,3,0,371245,"7,01",,S,0,"March 23, 1912"
+127,"Moore, Mrs. Rose",female,23.9,2,0,144541,10.86 USD,,Queenstown,1,26/04/1912
+61,"Miller, Master. Thomas",m,27.5,3,2,185860,6.53,,C,N,03-20-1912
+197,"walker, miss. helen",female,16.6,1,2,356378,$56.02,F27,Q,Yes,21/03/1912
+70,"  Thomas, Miss. Nora  ",female,41.4,2,0,162681,12.48,,S,0,04-17-1912
+22,"WILSON, MR. GEORGE",male,40.2,1,0,342550,60.64,,S,Yes,16/03/1912
+234,"Lewis, Mr. Samuel",MALE,28,3,1,125435,7.26,,q,0,18/04/1912
+79,"Young, Master. David",male,,1,0,259431,$92.15,,Southampton,0,04-14-1912
+212,"Baker, Miss. Agnes",Female,9.5,2,0,229743,,,S,1,13/04/1912
+252,"taylor, miss. rose",f,,3,1,171368,,,S,0,20/03/1912
+50,"Carter, Mr. Joseph",MALE,18,3,0,230651,11.16,,S,0,28/04/1912
+229,"Jackson, Mrs. Clara",female,,3rd,0,299576,12.79,,Cherbourg,No,30/03/1912
+225,"thomas, mrs. ada",F,24.2 yrs,3,0,218145,8.22 USD,,s,Y,20/03/1912
+59,"Moore, Mr. Samuel",male,,3,0,121106,$13.18,,Q,No,18/04/1912
+187,"Phillips, Mr. Walter",Male,5.8 yrs,3,0,123720,$10.54,,S,0,26/03/1912
+76,"KING, MR. MICHAEL",Male,34.3,3,0,191128,24.38,,S,0,05/04/1912
+20,"Walker, Mr. Fred",male,19.4,2,2,347815,25.41,,Southampton,0,16/03/1912
+263,"Wright, Mr. George",male,12.1,1st,2,273533,85.38,E21,C,1,05/04/1912
+133,"Carter, Mr. George",m,6.6,2,0,289715,27.42,,S,Yes,06/03/1912
+21,"brown, mrs. emily",female,36.4,3,0,128401,$16.09,,S,0,13/04/1912
+39,"Turner, Master. Michael",male,22.1,3rd,0,341331,$11.25,,S,0,03-23-1912
+184,"  Wilson, Miss. Clara  ",female,26.6 yrs,3,2,263952,6.91,,c,0,13/03/1912
+101,"Mitchell, Mrs. Catherine",female,29.3,3,0,125713,10.68,,Southampton,0,04-28-1912
+237,"Brown, Mrs. Ada",female,39.4,1,0,240155,$91.73,C46,S,1,20/04/1912
+293,"Campbell, Mr. Charles",MALE,17.3,1,1,317806,$77.10,E99,s,1,03-28-1912
+188,"Walker, Master. Charles",male,40.4 yrs,3,0,388283,6.74,,S,0,03-18-1912
+149,"Wright, Miss. Emily",female,14.9,3,3,247729,30.32,,S,1,19/04/1912
+7,"  Harris, Mr. Joseph  ",M,11.8,3,3,392002,8.75 USD,,Southampton,0,15/03/1912
+185,"clark, master. albert",male,,3,0,306172,7.83,,,No,02/04/1912
+196,"Walker, Miss. Nora",Female,41.8,3,1,238601,12.25 USD,,C,1,09/04/1912
+232,"Wilson, Miss. Emily",female,13.8 yrs,2,1,276980,"10,6",,s,1,17/03/1912
+253,"TAYLOR, MISS. EMILY",female,0.5,3rd,0,357429,22.51 USD,,S,0,04/06/1912
+69,"  Wright, Master. Joseph  ",M,24.2,2,0,323086,19.07,,s,0,17/04/1912
+164,"Scott, Miss. Florence",female,39.3,2,2,143312,17.78 USD,,S,0,04-16-1912
+1,"Wilson, Mr. Thomas",male,,1,0,116663,97.3,E55,C,0,02/03/1912
+275,"Miller, Miss. Clara",F,15.5,3,1,131120,12.3,,Cherbourg,0,06/04/1912
+226,"White, Master. John",MALE,44.1,3,0,206607,"9,65",,S,0,22/03/1912
+152,"Williams, Miss. Alice",female,17.1,3,0,283283,22.22,,S,Yes,29/04/1912
+56,"CLARK, MRS. ADA",female,39.7 yrs,3,0,276228,7.14,,S,1,12/04/1912
+219,"baker, mr. joseph",male,38.0 yrs,3,0,385446,7.48,,S,0,28/03/1912
+84,"Turner, Miss. Elizabeth",FEMALE,37.6 yrs,2,3,384475,,,s,1,03-30-1912
+143,"Campbell, Mr. Harry",male,26.7,2,2,305498,11.04,,s,0,"March 09, 1912"
+198,"Brown, Miss. Sarah",Female,21.7,2,0,306848,20.89,,Q,1,22/04/1912
+64,"Turner, Mrs. Rose",female,36.9,1st,0,180211,$58.53,,S,1,"March 28, 1912"
+130,"Davis, Mrs. Anna",female,20.1,3,0,233965,"12,76",,S,0,03-19-1912
+274,"Turner, Miss. Helen",Female,14,1,0,224227,"113,43",D16,s,1,03-14-1912
+281,"  Walker, Miss. Catherine  ",female,27.7,2,0,280218,20.54,,s,1,04-27-1912
+250,"WHITE, MRS. MARGARET",female,,3,0,289333,$9.26,,c,0,17/03/1912
+215,"Wright, Miss. Anna",female,0.5,3,0,101580,9.29,,S,1,17/04/1912
+87,"Mitchell, Mr. Robert",male,32.2,3,0,180725,6.70 USD,,S,0,01/04/1912
+171,"  Harris, Mrs. Alice  ",Female,47,1,0,282150,"63,21",G41,Q,1,15/04/1912
+47,"Carter, Miss. Emily",female,31,2,1,144457,11.22,,S,0,03-19-1912
+256,"Anderson, Mrs. Catherine",F,15.7 yrs,1st,0,351257,71.3,,C,1,07/04/1912
+239,"johnson, miss. agnes",FEMALE,2.7,2,0,327493,16.6,,s,0,11/04/1912
+273,"Walker, Master. Thomas",M,27.9,3,0,386446,10.06,,C,1,14/03/1912
+297,"taylor, mrs. elizabeth",female,54.7,3,0,140406,9.14 USD,,Southampton,1,"April 01, 1912"
+195,"Lewis, Mrs. Anna",female,23.9,3rd,0,375501,"7,09",,S,0,25/03/1912
+3,"Taylor, Master. David",M,43,3rd,0,153587,6.64,,Cherbourg,Yes,06/03/1912
+138,"  Moore, Mrs. Bertha  ",female,12,3,0,129826,6.88,,s,0,24/03/1912
+214,"brown, master. albert",male,,1,0,337729,101.98,D8,Southampton,0,09/03/1912
+291,"Lewis, Mr. Andrew",m,26.2 yrs,3,0,265922,$8.33,,S,0,09/03/1912
+117,"Harris, Master. John",male,23.7,3,0,310563,9.52,,Queenstown,0,28/03/1912
+121,"Wright, Mrs. Edith",female,39.7,3,0,148879,9.01 USD,,C,1,28/03/1912
+295,"JOHNSON, MR. WALTER",m,13.7,2,2,128850,10.57,,Southampton,0,20/03/1912
+194,"Smith, Mr. Michael",male,16,1,0,363097,"79,82",,S,0,19/04/1912
+242,"hall, mrs. catherine",female,25.6,3,1,383410,23.98,,,0,03-22-1912
+33,"Lewis, Master. Charles",male,35,3,2,148390,$17.08,,C,0,04/10/1912
+264,"King, Miss. Helen",female,14.7 yrs,3,0,115305,6.67,,S,0,04-17-1912
+8,"mitchell, mrs. anna",female,27.8,3,0,210615,10.46,,,Y,28/04/1912
+10,"MOORE, MISS. ADA",female,6.9,3,3,147662,12.58,,Southampton,No,04-18-1912
+104,"Davis, Mrs. Ada",female,9,2,0,378319,20.58,,Q,1,02/04/1912
+92,"Taylor, Mrs. Ada",female,21.2,1,0,179746,96.39,F84,,No,04/01/1912
+40,"Smith, Mrs. Helen",f,28.8,3,0,136396,9.44,,Southampton,Yes,04-19-1912
+29,"  Taylor, Master. Henry  ",Male,25,3,2,395170,"8,95",,S,0,07/03/1912
+263,"miller, mr. william",male,37.4,1,0,294966,79.97,,S,1,09/03/1912
+272,"WALKER, MR. THOMAS",male,20.3,2,1,359686,$12.64,,s,No,"April 05, 1912"
+205,"Campbell, Mr. Harry",male,22.1,1,0,364352,49.87,D18,Queenstown,0,30/03/1912
+170,"Anderson, Mr. Frank",male,2.9,3,0,249724,21.74,,S,0,04-14-1912
+299,"johnson, mr. albert",M,28.6 yrs,1st,0,118540,90.97,B23,Southampton,1,05/04/1912
+230,"Harris, Miss. Edith",female,,2nd,3,267894,33.24,,S,0,28/04/1912
+38,"GREEN, MR. JAMES",Male,21.2,3,1,230111,7.33,,Southampton,N,18/03/1912
+220,"Moore, Miss. Helen",f,27.1,3,0,159163,7.96 USD,,Cherbourg,0,03/03/1912
+110,"  Young, Master. Michael  ",male,9.1 yrs,3,2,294264,,,S,0,14/03/1912
+285,"Turner, Mrs. Rose",female,,1,0,154107,55.45,F14,,1,21/03/1912
+73,"Harris, Master. Fred",male,29.7,3,2,350467,28.04,,s,No,08/03/1912
+137,"Turner, Miss. Bertha",female,23.8,3,0,345849,6.57,,S,0,29/03/1912
+271,"white, master. frank",male,36.1,1,0,116179,42.55,A73,C,1,"April 20, 1912"
+151,"SCOTT, MRS. AGNES",female,35.4,3,1,184049,14,,S,N,03-18-1912
+189,"MOORE, MASTER. MICHAEL",male,35.9,1,0,366926,72.1,B78,Q,0,03-26-1912
+214,"brown, master. albert",male,,1,0,337729,101.98,D8,Southampton,N,09/03/1912
+286,"  Baker, Miss. Alice  ",female,,3,1,174896,13.35,,s,1,05/03/1912
+285,"TURNER, MRS. ROSE",female,,1,0,154107,55.45,F14,,1,21/03/1912
+172,"Turner, Master. Henry",m,24.9,3,0,191273,19.39,,Cherbourg,1,20/04/1912
+276,"Taylor, Mrs. Clara",female,,3,0,369701,$12.86,,S,No,27/04/1912
+162,"Taylor, Mr. Charles",MALE,,1,0,200193,52.9,C5,Q,0,"March 19, 1912"
+150,"  Mitchell, Mrs. Ada  ",Female,25.8 yrs,3,0,127357,$14.29,,c,0,11/04/1912
+263,"Wright, Mr. George",male,12.1,1,2,273533,85.38,E21,C,1,05/04/1912
+246,"Jones, Master. Robert",male,17.9,3,1,304274,10.4,,s,0,21/03/1912
+116,"GREEN, MR. ALBERT",MALE,31.6,3,0,157175,15.53,,Southampton,0,29/03/1912
+118,"Phillips, Mr. Arthur",MALE,25.4,3,0,244187,9.21,,s,1,"April 09, 1912"
+49,"Scott, Mrs. Bertha",FEMALE,25.2,3,0,102907,$13.86,,Southampton,N,04-27-1912
+108,"King, Mrs. Helen",Female,16.8 yrs,3,2,314064,24.81 USD,,s,N,08/03/1912
+288,"jones, mrs. margaret",female,35.8,3,0,325123,$7.75,,S,Y,21/03/1912
+260,"Baker, Master. Frank",M,17.5,2,0,112877,25.56 USD,,,0,31/03/1912
+255,"Harris, Mr. Arthur",male,20.8,3,1,314508,7.08,,,Yes,13/04/1912
+156,"Brown, Master. Joseph",male,18.4,3rd,0,339659,$12.36,,c,0,05/03/1912
+100,"Davis, Miss. Nora",FEMALE,36.4,3,1,299944,9.36,,,1,06/04/1912
+96,"Miller, Master. Michael",Male,,3rd,2,129422,7.61,,s,0,19/03/1912
+191,"Lewis, Miss. Catherine",female,4.7 yrs,3rd,0,257176,$8.54,,C,No,"March 31, 1912"
+68,"Walker, Master. Walter",male,19.2,1,0,148786,,G3,S,0,03-19-1912
+96,"  Carter, Miss. Emily  ",Female,18.3,1,0,370861,$193.72,E2,S,1,30/04/1912
+97,"Lewis, Mrs. Alice",f,45.2,2,0,191786,"21,31",,Southampton,1,06/03/1912
+23,"JOHNSON, MR. SAMUEL",male,28.0 yrs,2,0,148896,$14.37,,S,0,29/04/1912
+167,"  Jones, Mrs. Florence  ",female,31.7,2,0,166180,22.73,,Southampton,1,05/03/1912
+125,"Miller, Mr. Thomas",male,11.9,3,1,284037,13.76,,Q,0,01/03/1912
+193,"Green, Mrs. Bertha",F,16.2,2,0,299329,11.56,,s,0,10/03/1912
+267,"hall, miss. clara",Female,,3,0,190454,"13,38",,S,0,22/04/1912
+102,"Young, Mrs. Catherine",female,33.3,3,0,231400,"10,9",,Southampton,0,13/04/1912
+160,"Jones, Master. Michael",Male,24.6,2,0,191797,29.67,,C,0,23/04/1912
+245,"MILLER, MASTER. FRANK",male,43.1,2,0,254863,38.17,,Southampton,1,04-21-1912
+145,"Thomas, Miss. Mary",female,41.4,3,0,354946,"10,44",,Q,1,13/03/1912
+278,"Jones, Master. Frank",male,44.4,3,0,336973,"15,87",,S,0,05/03/1912
+210,"Wright, Master. David",male,24.6,3,1,263042,8.71,,C,0,"April 14, 1912"
+31,"Young, Master. Samuel",male,41.7,2,1,390771,12.91,,,0,20/03/1912
+13,"green, mrs. nora",female,,2,0,193665,14.08,,s,1,02/04/1912
+91,"Harris, Miss. Agnes",Female,,2,1,225202,18.22,,Queenstown,0,06/04/1912
+42,"BROWN, MRS. SARAH",female,28.7,1,0,301953,81.5,E15,Cherbourg,1,27/04/1912
+209,"  Hall, Miss. Rose  ",female,,3rd,0,223890,$7.29,,S,1,04/03/1912
+82,"  King, Miss. Bertha  ",female,35.2,1,2,154840,72.08,C86,S,1,24/04/1912
+161,"Carter, Mrs. Kate",female,11.2,3,0,119390,26.52,,q,0,19/03/1912
+136,"Young, Mr. Charles",male,26.4,1st,0,343245,65.19 USD,F64,S,0,04-18-1912
+177,"Miller, Mr. Henry",male,,3,0,372051,7.8,,S,0,27/04/1912
+111,"Brown, Miss. Helen",female,,2,0,288048,11.01,,q,Yes,04/03/1912
+154,"Jones, Mr. George",male,46,3,2,172767,6.8,,s,0,18/04/1912
+54,"Williams, Mr. William",male,20.1,2,0,132645,13.31,,s,1,"March 14, 1912"
+179,"Miller, Mr. Harry",Male,12.2 yrs,3rd,0,395498,$7.89,,S,0,03/03/1912
+99,"Phillips, Miss. Edith",female,15.4 yrs,2,0,277254,13.63,,S,1,02/03/1912
+258,"  King, Mr. Edward  ",Male,23.7,3,0,309514,$7.99,,Southampton,0,18/04/1912
+52,"ANDERSON, MISS. KATE",female,,3rd,1,373311,24.44,,S,0,"April 01, 1912"
+15,"Brown, Mr. Fred",male,32.9,3,1,261225,7.1,,C,0,03-16-1912
+262,"  Brown, Master. Edward  ",male,37.1,3,0,257424,7.6,,S,0,03/03/1912
+83,"Wright, Master. Fred",male,30.9,2,1,338459,22.66,,S,1,06/03/1912
+85,"Young, Miss. Julia",FEMALE,19.7,1st,0,387949,,,,1,09/03/1912
+190,"  Carter, Master. William  ",male,,1,0,267001,46.76,C79,s,1,11/03/1912
+30,"Jones, Master. Albert",male,,3,1,293738,21.98,,,0,19/03/1912
+4,"Carter, Miss. Edith",F,38.2,1,0,253709,117.03,A71,S,1,23/04/1912
+24,"Davis, Master. Fred",MALE,40.7,1,2,304693,57.64,,s,1,17/03/1912
+147,"Young, Mrs. Clara",female,50.3,3,0,186790,8.61,,Cherbourg,No,16/04/1912
+129,"Wright, Master. Michael",male,14.1 yrs,2,0,123811,$11.83,,S,1,03-15-1912
+166,"Harris, Miss. Nora",female,29.8,1,1,130072,129.9,C82,s,1,05/03/1912
+202,"White, Mr. Samuel",male,18.6 yrs,1,1,268384,,G37,Southampton,0,"March 19, 1912"
+218,"KING, MRS. AGNES",female,,2,0,306075,,,Queenstown,0,03/04/1912
+169,"LEWIS, MRS. MARGARET",FEMALE,36.7,2,0,159479,15.35,,s,1,03/02/1912
+46,"Thomas, Miss. Mary",female,33,3,1,268951,9.48,,S,1,30/03/1912
+51,"Baker, Master. Arthur",Male,11.3,3,0,364649,14.13,,C,0,28/03/1912
+98,"Campbell, Miss. Helen",female,28.9,3rd,0,340947,$26.64,,S,Y,"March 17, 1912"
+236,"walker, mrs. mary",f,12.3,3,0,244043,8.19,,S,1,04/04/1912
+58,"  Johnson, Mrs. Nora  ",female,38.4,1st,0,321021,96.37 USD,D36,S,N,17/03/1912
+238,"Hall, Miss. Ellen",female,45.3,1st,0,116611,54.18,A84,S,Yes,06/03/1912
+43,"Lewis, Mr. Walter",m,21.7,2,0,203303,11.85,,C,0,24/03/1912
+233,"Miller, Miss. Kate",Female,29.7,3,0,386547,9.22,,Southampton,Y,01/04/1912
+80,"Harris, Miss. Julia",female,30.7,3,0,268989,9.4,,S,No,08/04/1912
+186,"Johnson, Miss. Emily",female,,3,0,346723,9.51,,c,0,19/03/1912
+290,"Green, Mrs. Clara",FEMALE,13.6,1,0,302315,49.64,B64,Cherbourg,1,03/08/1912
+221,"Davis, Mrs. Mary",female,,3rd,0,125520,13.61,,Southampton,0,16/03/1912
+113,"Williams, Mrs. Alice",female,16.9,2,0,222158,11.54 USD,,Southampton,0,22/03/1912
+12,"Wright, Mrs. Mary",female,,3,0,278349,7.35 USD,,c,No,08/03/1912
+151,"Scott, Mrs. Agnes",female,35.4,3,1,184049,14,,S,0,03-18-1912
+235,"scott, mr. joseph",MALE,20.8,2,0,131693,26.61,,s,0,09/04/1912
+86,"  Smith, Mrs. Kate  ",female,21.2,2,0,183035,16.67,,S,1,20/03/1912
+247,"Harris, Miss. Mary",female,29.7,1,0,335323,79.58,,S,1,04/05/1912
+135,"Lewis, Mrs. Margaret",female,15.4,3,2,177432,,,s,0,16/03/1912
+144,"  Mitchell, Master. Frank  ",male,24.2,2,0,375981,"45,96",,q,No,06/03/1912
+183,"Wilson, Miss. Elizabeth",female,15.6,3rd,0,150757,"19,94",,Southampton,1,04/03/1912
+279,"Harris, Master. Thomas",m,23.5,2,0,148833,33.31 USD,,S,Yes,04-16-1912
+5,"Wright, Mrs. Margaret",female,,3,0,222049,$8.86,,S,0,25/04/1912
+134,"Hall, Miss. Helen",female,7.1,3,0,278002,34.25 USD,,C,1,15/03/1912
+45,"Wright, Miss. Emily",female,37.7 yrs,3,0,398375,$8.26,,Q,1,20/03/1912
+251,"HARRIS, MR. FRED",male,20,3,0,274177,"8,15",,Queenstown,0,04-23-1912
+204,"CARTER, MASTER. JOHN",male,23.4,3rd,2,251764,29.18,,q,Y,26/04/1912
+136,"Young, Mr. Charles",male,26.4,1st,0,343245,65.19 USD,F64,S,0,04-18-1912
+146,"Thomas, Mr. William",M,35.5,3,0,376054,12.21 USD,,C,1,03/03/1912
+72,"Anderson, Mrs. Mary",female,34.8 yrs,1,0,357361,145.47,F97,S,1,03/07/1912
+119,"  Harris, Miss. Clara  ",female,21.4 yrs,2,0,159985,$24.50,,C,0,04-24-1912
+290,"Green, Mrs. Clara",FEMALE,13.6,1,0,302315,49.64,B64,Cherbourg,1,03/08/1912
+102,"YOUNG, MRS. CATHERINE",female,33.3,3,0,231400,"10,9",,Southampton,No,13/04/1912
+217,"Baker, Mrs. Ada",female,33.5,1,0,335162,159.02,C49,Cherbourg,1,25/04/1912
+75,"Baker, Mrs. Clara",female,18.6,3,0,324830,7.71,,S,N,03-20-1912
+105,"CARTER, MISS. SARAH",female,41.3 yrs,3,1,345540,11.05,,C,1,05/03/1912
+249,"Hall, Mr. Samuel",male,,3,0,240990,,,S,1,03-20-1912
+95,"Wilson, Mrs. Anna",female,30.1 yrs,3,2,147384,9.92,,Queenstown,0,28/03/1912
+300,"CAMPBELL, MISS. HELEN",FEMALE,,1st,0,127615,53.88,E87,S,N,03/12/1912
+94,"Young, Master. Thomas",MALE,31.2,1st,0,299234,66.28,G69,Cherbourg,Y,21/03/1912
+19,"SCOTT, MR. JAMES",Male,,3,0,273239,"7,0",,Q,1,05/03/1912
+284,"Smith, Mr. Robert",male,28.2,2,0,372338,10.44,,Southampton,1,04-13-1912
+32,"Brown, Master. William",male,17.8,3,0,247721,,,Southampton,0,08/04/1912
+141,"LEWIS, MASTER. ARTHUR",M,37.3 yrs,1,0,314312,$52.63,,,No,19/04/1912
+90,"Mitchell, Miss. Catherine",female,11.1,3,3,177906,12.84,,s,0,29/03/1912
+159,"King, Mr. Fred",male,24.1,2,0,287220,25.27,,Cherbourg,1,20/04/1912
+287,"Moore, Master. David",M,27.1,3,0,315854,,,S,0,09/04/1912
+142,"Williams, Miss. Anna",female,19.2,3,0,232118,6.58,,s,Yes,04-16-1912
+244,"Baker, Master. Andrew",male,26.7 yrs,2,0,336218,19.05,,C,No,01/04/1912
+14,"Jones, Mr. Henry",male,9.3,3,0,378058,11.64,,,No,28/04/1912
+78,"White, Mr. Harry",male,25.8,3,0,239267,7.48,,S,0,22/04/1912
+273,"Walker, Master. Thomas",M,27.9,3,0,386446,10.06,,C,1,14/03/1912
+180,"King, Master. Harry",male,35,1,0,386039,$49.77,,S,1,03-19-1912
+178,"King, Mrs. Sarah",female,12.7,3,0,379696,,,S,0,"March 06, 1912"
+201,"King, Mr. Albert",MALE,16.9,2nd,0,347675,12.2,,S,Y,03/07/1912
+34,"Taylor, Mrs. Anna",female,27.9,3,0,331649,$21.00,,s,No,05/04/1912
+63,"CARTER, MRS. CLARA",FEMALE,,3,1,324593,$14.60,,Southampton,0,12/04/1912
+123,"Thomas, Mrs. Ada",female,,3,0,211536,$26.05,,S,0,10/03/1912
+55,"Turner, Mrs. Bertha",female,26.7 yrs,2,0,284422,$17.98,,s,1,03-20-1912
+240,"Wilson, Mrs. Elizabeth",f,42,3,1,349299,$7.58,,C,0,18/03/1912
+17,"Anderson, Mr. Fred",male,,1,0,205461,,G94,Queenstown,1,15/04/1912
+41,"  Wright, Miss. Julia  ",female,1,2,0,160472,13.69,,Q,1,26/04/1912
+257,"Carter, Mrs. Ada",female,24.2,3,0,144555,8.03,,,1,03/07/1912
+74,"Jones, Mr. Robert",male,,2nd,0,230123,13.82,,S,No,08/03/1912
+9,"Phillips, Miss. Kate",female,29.8,1,0,394318,79.7,,S,1,04/04/1912
+222,"Baker, Mr. Joseph",male,,2nd,0,251657,"14,81",,s,1,15/03/1912
+157,"  King, Mr. Fred  ",male,22.6 yrs,3,0,325044,"9,98",,S,No,01/03/1912
+124,"Turner, Miss. Elizabeth",female,,1,0,324978,83.97,,S,Y,24/04/1912
+16,"  Williams, Mr. Harry  ",male,26.1,2,1,379291,10.72 USD,,Q,No,19/04/1912
+126,"Williams, Master. Harry",male,9.4,3,0,378125,16.69,,s,0,03-14-1912
+266,"Moore, Mr. Samuel",MALE,39.3,3,0,356630,8.21,,S,0,03/04/1912
